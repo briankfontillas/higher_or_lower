@@ -1,0 +1,9 @@
+BEAT THE RANDOM NUMBER
+High level psuedocode:
+
+- Computer chooses a number at RANDOM
+- User inputs a number of choice
+- User guesses if their number is higher or lower than computer's number
+  - If user guesses correct, they win
+  - If user guesses incorrect, they lose
+-User prompted to play again
